@@ -50,3 +50,4 @@ yarn-error.log*
 temp/
 
 >>>>>>> 1d37a26a185375cbb7cb7f2d8f34daa39ed640b0
+.env
